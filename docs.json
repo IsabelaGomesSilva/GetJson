@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "id_user": 1,
+        "tipo": "Trabalho",
+        "titulo": "Atividade Prática",
+        "curso": "ADS",
+        "turno": "manhã"
+    },
+    {
+        "id": 2,
+        "id_user": 2,
+        "tipo": "Trabalho",
+        "titulo": "Relatório de Pesquisa",
+        "curso": "ADS",
+        "turno": "tarde"
+    },
+    {
+        "id": 3,
+        "id_user": 3,
+        "tipo": "Trabalho",
+        "titulo": "Projeto de Desenvolvimento",
+        "curso": "Engenharia",
+        "turno": "noite"
+    },
+    {
+        "id": 4,
+        "id_user": 4,
+        "tipo": "Trabalho",
+        "titulo": "Design de Interface",
+        "curso": "Design",
+        "turno": "manhã"
+    },
+    {
+        "id": 5,
+        "id_user": 5,
+        "tipo": "Trabalho",
+        "titulo": "Análise de Dados",
+        "curso": "ADS",
+        "turno": "tarde"
+    }
+]
